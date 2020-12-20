@@ -1,9 +1,5 @@
-### Hi there 👋
-
-**irailtonreis/irailtonreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Meu nome é Irailton Oliveira Reis</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h1 align="center">Hi 👋, I'm Irailton Oliveira Reis</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irailtonreis&label=Profile%20views&color=0e75b6&style=flat" alt="irailtonreis" /> </p>
 
@@ -22,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irailtonreis&show_icons=true&locale=en" alt="irailtonreis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irailtonreis&" alt="irailtonreis" /></p>
-
