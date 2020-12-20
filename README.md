@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **irailtonreis/irailtonreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Meu nome é Irailton Oliveira Reis</h1>
